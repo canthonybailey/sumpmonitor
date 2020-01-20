@@ -1,0 +1,23 @@
+{
+  "name": "sumpmonitor",
+  "version": "1.0.0",
+  "description": "home sump monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canthonybailey/sumpmonitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canthonybailey/sumpmonitor/issues"
+  },
+  "homepage": "https://github.com/canthonybailey/sumpmonitor#readme",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1",
+    "rpi-gpio": "^2.1.5"
+  }
+}
